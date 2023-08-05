@@ -27,7 +27,7 @@ OR
 ## How to use it?
 
 ```bash
-  pomodoro 60 5
+  pomodoro 60 5 a
 ```
 
 will run pomodoro cycles of 60mins of work and 5mins of rest. 
